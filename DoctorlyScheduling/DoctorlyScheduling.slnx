@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DoctorlyScheduling.Tests/DoctorlyScheduling.Tests.csproj" />
+  <Project Path="DoctorlyScheduling/DoctorlyScheduling.csproj" />
+</Solution>
