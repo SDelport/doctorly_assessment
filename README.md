@@ -1,5 +1,5 @@
 
-# 📦 doctorly Assessment Project
+# 📦 doctorly Assessment
 
 
 
@@ -56,7 +56,7 @@ The project includes **xUnit** tests.
 
 To execute the test suite:
 
-dotnet test
+    dotnet test
 
 This will build the solution and run all unit/integration tests.
 
